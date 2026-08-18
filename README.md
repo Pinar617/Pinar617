@@ -1,60 +1,128 @@
-<div align="center">✨ PINAR ✨
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=700&lines=Electrical+Engineering+Student+%E2%9A%A1;Front-End+Developer+in+Progress+%F0%9F%92%BB;Code+%E2%80%A2+Engineering+%E2%80%A2+Creativity+%F0%9F%8C%B1" alt="Typing SVG" /><br>🎓 Electrical Engineering Student
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2E,50:1B2A5B,100:D4AF37&height=220&section=header&text=PINAR&fontSize=70&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Electrical%20Engineering%20%C2%B7%20Front-End%20Developer&descAlignY=58&descSize=18&descColor=EFE6C8" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3500&pause=1200&color=D4AF37&center=true&vCenter=true&width=750&lines=Electrical+Engineering+Student+%E2%9A%A1;Front-End+Developer+in+Progress+%F0%9F%92%BB;Code+%E2%80%A2+Engineering+%E2%80%A2+Creativity+%F0%9F%8C%B1" alt="Typing SVG" />
+
+🎓 **Electrical Engineering Student**
 🏫 K. N. Toosi University of Technology
 
-<br><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F2027,100:2ECC71&height=120&section=header&text=Welcome%20to%20my%20profile!&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%" /></div>---
+</div>
 
-<div align="center">💻 "WHO AM I?"
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=D4AF37&height=3&section=header" width="100%" />
 
-</div>I'm Pinar, an Electrical Engineering student at K. N. Toosi University of Technology who loves combining engineering, programming and creativity.
+<div align="center">
 
-I'm currently growing my skills in Front-End Development while exploring different programming languages and engineering tools.
+### ✨ WHO AM I ✨
 
-<div align="center">«⚡ Engineering my ideas. Coding my future. 🌱»
+</div>
 
-</div>---
+<div align="center">
+<table border="0">
+<tr>
+<td>
 
-<div align="center">🛠️ TECH STACK
+I'm **Pinar**, an Electrical Engineering student at K. N. Toosi University of Technology who loves combining **engineering**, **programming** and **creativity**.
+I'm currently growing my skills in **Front-End Development** while exploring different programming languages and engineering tools.
 
-🌐 Front-End
+</td>
+</tr>
+</table>
+</div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />💻 Programming
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c" />⚡ Engineering
+*« ⚡ Engineering my ideas. Coding my future. 🌱 »*
 
-<img src="https://skillicons.dev/icons?i=matlab" />🔧 Tools
+</div>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />PSpice ⚡
+<br>
 
-</div>---
+<div align="center">
 
-<div align="center">📚 FEATURED PROJECT
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=D4AF37&height=3&section=header" width="100%" />
 
-📖 Book Shop — Reader's Heaven
+### 🛠️ TECH STACK
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=2ECC71&center=true&vCenter=true&width=600&lines=My+First+Frontend+Project+%F0%9F%8C%B1;Built+with+Pure+HTML5+%26+CSS3;Responsive+%7C+Modern+%7C+Forest+Inspired" /><br>A modern and responsive Book Shop Website designed from scratch using HTML5 & CSS3.
+<br>
 
-🌿 Forest-inspired UI
-✨ Glassmorphism
-📱 Responsive Design
-🎨 Custom CSS Animations
-📚 Multi-page Layout
+**🌐 Front-End**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-<br>🔗 "🌐 LIVE WEBSITE — BOOK SHOP" (#)
+<br><br>
 
-</div>---
+**💻 Programming**
+<br>
+<img src="https://skillicons.dev/icons?i=python,c&theme=dark" />
 
-<div align="center">🌱 CURRENTLY LEARNING
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=2ECC71&center=true&vCenter=true&width=650&lines=JavaScript+%F0%9F%92%BB;Advanced+Front-End+Development+%F0%9F%8C%90;Python+%F0%9F%90%8D;Building+Cool+Projects+%F0%9F%9A%80" /></div>---
+**⚡ Engineering**
+<br>
+<img src="https://skillicons.dev/icons?i=matlab&theme=dark" />
+&nbsp;&nbsp;`PSpice`
 
-<div align="center">⚡ ENGINEERING × CODE × CREATIVITY
+<br><br>
 
-<br><img src="https://img.shields.io/badge/Electrical%20Engineering-2ECC71?style=for-the-badge&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/Frontend%20Development-1572B6?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Programming-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white" /><br><br>
+**🔧 Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
-🚀 Building my skills, one project at a time.
+</div>
 
-<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:0F2027&height=120&section=footer&animation=fadeIn" width="100%" /></div>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=D4AF37&height=3&section=header" width="100%" />
+
+<div align="center">
+
+### 📚 FEATURED PROJECT
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&width=650&lines=Book+Shop+%E2%80%94+Reader's+Heaven" />
+
+🌿 Forest-inspired UI &nbsp;·&nbsp; ✨ Glassmorphism &nbsp;·&nbsp; 📱 Responsive &nbsp;·&nbsp; 🎨 Custom Animations &nbsp;·&nbsp; 📖 Multi-page Layout
+
+<br>
+
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-D4AF37?style=for-the-badge&logoColor=white&labelColor=0B0F2E)](#)
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=D4AF37&height=3&section=header" width="100%" />
+
+<div align="center">
+
+### 🌱 CURRENTLY LEARNING
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=800&color=D4AF37&center=true&vCenter=true&width=650&lines=JavaScript+%F0%9F%92%BB;Advanced+Front-End+Development+%F0%9F%8C%90;Python+%F0%9F%90%8D;Building+Cool+Projects+%F0%9F%9A%80" />
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=D4AF37&height=3&section=header" width="100%" />
+
+<div align="center">
+
+### ⚡ ENGINEERING × CODE × CREATIVITY
+
+<br>
+
+<img src="https://img.shields.io/badge/Electrical%20Engineering-0B0F2E?style=for-the-badge&logo=probot&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Frontend%20Development-1B2A5B?style=for-the-badge&logo=html5&logoColor=D4AF37" />
+<img src="https://img.shields.io/badge/Programming-0B0F2E?style=for-the-badge&logo=codeforces&logoColor=D4AF37" />
+
+<br><br>
+
+🚀 *Building my skills, one project at a time.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,50:1B2A5B,100:0B0F2E&height=150&section=footer&animation=fadeIn" width="100%" />
+
+</div>
