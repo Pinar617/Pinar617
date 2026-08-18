@@ -1,66 +1,56 @@
 <div align="center">
 
-<!-- ═══════════════════════ TOP WAVE ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=PINAR&fontSize=90&fontColor=00F0FF&animation=twinkling&fontAlignY=35&desc=Electrical Engineering | Front-End Development&descAlignY=58&descSize=18&descColor=B026FF&color=0:050505,25:120A24,50:24103D,75:3B1766,100:00F0FF" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:0D0D0D,45:1A0B2E,70:3B1766,100:00F0FF&height=280&section=header&text=PINAR&fontSize=88&fontColor=00F0FF&animation=twinkling&fontAlignY=35&desc=ELECTRICAL ENGINEERING · FRONT-END · CREATIVITY&descAlignY=60&descSize=17&descColor=B026FF" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=800&height=55&lines=ELECTRICAL+ENGINEERING+STUDENT;%E2%9A%A1+ENGINEERING+%C3%97+CODE+%C3%97+CREATIVITY;%F0%9F%92%BB+FRONT-END+DEVELOPER+IN+PROGRESS;%F0%9F%9A%80+BUILDING+THE+FUTURE%2C+ONE+PROJECT+AT+A+TIME" />
 
 <br>
 
-<!-- ═══════════════════════ MAIN TYPING ═══════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=850&height=55&lines=%E2%9A%A1+ELECTRICAL+ENGINEERING+STUDENT;%F0%9F%92%BB+FRONT-END+DEVELOPER+IN+PROGRESS;%F0%9F%90%8D+PYTHON+%C2%B7+C+%C2%B7+JAVASCRIPT;%F0%9A%80+ENGINEERING+%C3%97+CODE+%C3%97+CREATIVITY" alt="Typing Animation"/>
+<img src="https://img.shields.io/badge/🎓 K.N. TOOSI UNIVERSITY OF TECHNOLOGY-0D0D0D?style=for-the-badge&labelColor=1A0B2E&color=00F0FF"/>
 
 <br><br>
 
-<!-- ═══════════════════════ UNIVERSITY ═══════════════════════ -->
-
-<img src="https://img.shields.io/badge/✦ K.N. TOOSI UNIVERSITY OF TECHNOLOGY ✦-0D0D0D?style=for-the-badge&labelColor=1A0B2E&color=00F0FF"/>
-
-<br><br>
-
-<!-- ═══════════════════════ STATUS ═══════════════════════ -->
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING %26 BUILDING-0D0D0D?style=for-the-badge&labelColor=2D1B4E&color=B026FF"/>
+<img src="https://img.shields.io/badge/⚡ STATUS-LEARNING %26 BUILDING-0D0D0D?style=for-the-badge&labelColor=2D1B4E&color=B026FF"/>
 
 </div>
 
 <br>
 
----
+<div align="center">
+
+## ✦ ABOUT ME ✦
+
+</div>
 
 <div align="center">
 
-<h2>◈  ABOUT ME  ◈</h2>
-
 <table>
 <tr>
-<td align="center" width="750">
+<td width="700">
+
+### 👋 Hi, I'm Pinar
+
+I'm an *Electrical Engineering student passionate about the intersection of engineering, programming and creativity.
+
+I'm currently developing my skills in Front-End Development while working with programming and engineering tools.
+
+I enjoy learning new technologies, creating projects and turning ideas into something real.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=B026FF&center=true&vCenter=true&width=600&height=35&lines=Hi%2C+I'm+Pinar+%F0%9F%91%8B;Electrical+Engineering+Student+%E2%9A%A1;Front-End+Developer+in+Progress+%F0%9F%92%BB" />
+<div align="center">
+
+`⚡ ENGINEER`
+
+`💻 DEVELOPER`
+
+`🎨 CREATOR`
 
 <br><br>
 
-I live at the intersection of *circuits, code and creativity.
+“Engineering my ideas. Coding my future.”*
 
-I'm currently studying Electrical Engineering while developing my skills in Front-End Development* and programming.
-
-I love learning new technologies, building things from scratch and turning ideas into reality.
-
-<br><br>
-
-<i>⚡ Engineering my ideas.</i>
-
-<br>
-
-<i>💻 Coding my future.</i>
-
-<br>
-
-<i>🚀 Creating what's next.</i>
-
-<br><br>
+</div>
 
 </td>
 </tr>
@@ -70,23 +60,23 @@ I love learning new technologies, building things from scratch and turning ideas
 
 <br>
 
-<!-- ═══════════════════════ NEON DIVIDER ═══════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=5&section=header" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&color=gradient&customColorList=12,20" width="90%"/>
 
 </div>
 
 <br>
 
-<h2 align="center">◈  TECH STACK  ◈</h2>
+<div align="center">
+
+## ✦ TECH STACK ✦
+
+</div>
 
 <br>
 
-<!-- ═══════════════════════ FRONT END ═══════════════════════ -->
-
-<h3 align="center">⌁ FRONT-END DEVELOPMENT ⌁</h3>
+### 💻 Front-End Development
 
 <div align="center">
 
@@ -94,15 +84,15 @@ I love learning new technologies, building things from scratch and turning ideas
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=00F0FF&center=true&vCenter=true&width=500&height=30&lines=HTML5+%7C+CSS3+%7C+JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════ PROGRAMMING ═══════════════════════ -->
-
-<h3 align="center">⌁ PROGRAMMING ⌁</h3>
+### 🐍 Programming
 
 <div align="center">
 
@@ -110,43 +100,41 @@ I love learning new technologies, building things from scratch and turning ideas
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=B026FF&center=true&vCenter=true&width=500&height=30&lines=Python+%7C+C" />
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════ ENGINEERING ═══════════════════════ -->
-
-<h3 align="center">⌁ ELECTRICAL ENGINEERING ⌁</h3>
+### ⚡ Electrical Engineering
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/MATLAB-0D0D0D?style=for-the-badge&logo=mathworks&logoColor=00F0FF"/>
-&nbsp;
 <img src="https://img.shields.io/badge/PSpice-0D0D0D?style=for-the-badge&logoColor=B026FF"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=00F0FF&center=true&vCenter=true&width=500&height=30&lines=MATLAB+%7C+PSpice" />
+<code>MATLAB</code>
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+<code>PSpice</code>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════ TOOLS ═══════════════════════ -->
-
-<h3 align="center">⌁ DEVELOPMENT TOOLS ⌁</h3>
+### 🛠️ Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/i
-
-cons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2200&pause=800&color=B026FF&center=true&vCenter=true&width=500&height=30&lines=Git+%7C+GitHub+%7C+VS+Code" />
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
 
 </div>
 
@@ -154,41 +142,50 @@ cons?i=git,github,vscode&theme=dark" />
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=5&section=header" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&section=header&color=gradient&customColorList=12,20" width="90%"/>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════ CURRENTLY LEARNING ═══════════════════════ -->
-
-<h2 align="center">◈  CURRENTLY LEARNING  ◈</h2>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=750&height=150&lines=%E2%9A%A1+JavaScript;%F0%9F%8C%90+Advanced+Front-End+Development;%F0%9F%90%8D+Python;%F0%9F%9A%80+Building+Cool+Projects;%E2%9C%A6+Learning+Something+New+Every+Day" alt="Learning Animation"/>
+## ✦ CURRENTLY LEARNING ✦
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=700&height=140&lines=%E2%9A%A1+JavaScript;%F0%9F%8C%90+Advanced+Front-End+Development;%F0%9F%90%8D+Python;%F0%9F%9A%80+Building+Cool+Projects;%E2%9C%A6+Learning+Something+New+Every+Day" />
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════ MINDSET ═══════════════════════ -->
+<div ali
 
-<h2 align="center">◈  ENGINEERING × CODE × CREATIVITY  ◈</h2>
+gn="center">
+
+## ✦ ENGINEERING × CODE × CREATIVITY ✦
+
+<br>
+
+<img src="https://img.shields.io/badge/⚡ ELECTRICAL ENGINEERING-0D0D0D?style=for-the-badge&labelColor=160B2B&color=00F0FF"/>
+<img src="https://img.shields.io/badge/💻 FRONT--END-0D0D0D?style=for-the-badge&labelColor=160B2B&color=B026FF"/>
+<img src="https://img.shields.io/badge/🐍 PROGRAMMING-0D0D0D?style=for-the-badge&labelColor=160B2B&color=00F0FF"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=650&height=40&lines=%E2%9C%A6+LEARN+%E2%86%92+BUILD+%E2%86%92+CREATE+%E2%9C%A6" />
+
+<br><br>
+
+*🚀 Building my skills, one project at a time.*
+
+</div>
+
+<br><br>
 
 <div align="center">
 
-```text
-       ╔══════════════════════════════════════╗
-       ║                                      ║
-       ║        ⚡ THINK  →  BUILD  →  CREATE ║
-       ║                                      ║
-       ║       ENGINEERING      CODE          ║
-       ║            ╲          ╱              ║
-       ║             ╲        ╱               ║
-       ║              ╲      ╱                ║
-       ║               ✦    ✦                 ║
-       ║                 ╲╱                    ║
-       ║               CREATE                 ║
-       ║                                      ║
-       ╚══════════════════════════════════════╝
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&text=KEEP BUILDING&fontSize=32&fontColor=00F0FF&animation=twinkling&fontAlignY=65&color=0:00F0FF,25:3B1766,55:24103D,80:120A24,100:050505" width="100%"/>
+
+</div>
