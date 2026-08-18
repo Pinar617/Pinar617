@@ -8,7 +8,7 @@
 
 <br>
 
-!K.N. Toosi University
+![K.N. Toosi University](https://img.shields.io/badge/🎓%20K.N.%20Toosi%20University-1A0B2E?style=for-the-badge&labelColor=0D0D0D&color=00F0FF)
 
 </div>
 
@@ -18,13 +18,13 @@
 
 <div align="center">
 
-I'm *Pinar — an Electrical Engineering student who lives at the intersection of circuits and code.
+I'm **Pinar** — an Electrical Engineering student who lives at the intersection of **circuits and code**.
 
-Currently developing my Front-End Development skills while exploring programming, engineering tools, and creative ways to build things.
+Currently developing my **Front-End Development** skills while exploring programming, engineering tools, and creative ways to build things.
 
 <br>
 
-⚡ Engineering my ideas. Coding my future. 🌱
+**⚡ Engineering my ideas. Coding my future. 🌱**
 
 </div>
 
@@ -40,9 +40,9 @@ Currently developing my Front-End Development skills while exploring programming
 
 <br><br>
 
-!HTML5
-!CSS3
-!JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 </div>
 
@@ -56,8 +56,8 @@ Currently developing my Front-End Development skills while exploring programming
 
 <br><br>
 
-!Python
-!C
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=A8B9CC)
 
 </div>
 
@@ -67,12 +67,12 @@ Currently developing my Front-End Development skills while exploring programming
 
 <div align="center">
 
-!MATLAB
-!PSpice
+![MATLAB](https://img.shields.io/badge/MATLAB-0D0D0D?style=for-the-badge&logo=mathworks&logoColor=00F0FF)
+![PSpice](https://img.shields.io/badge/PSpice-0D0D0D?style=for-the-badge&logoColor=B026FF)
 
 <br><br>
 
-MATLAB &nbsp; • &nbsp; PSpice
+**MATLAB** &nbsp; • &nbsp; **PSpice**
 
 </div>
 
@@ -86,9 +86,9 @@ MATLAB &nbsp; • &nbsp; PSpice
 
 <br><br>
 
-!Git
-!GitHub
-!VS Code
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
@@ -98,13 +98,13 @@ MATLAB &nbsp; • &nbsp; PSpice
 
 <div align="center">
 
-!JavaScript
+![JavaScript](https://img.shields.io/badge/JavaScript-1A0B2E?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-!Advanced Front-End Development
+![Advanced Front-End Development](https://img.shields.io/badge/Advanced%20Front--End%20Development-1A0B2E?style=for-the-badge&logo=html5&logoColor=00F0FF)
 
-!Python
+![Python](https://img.shields.io/badge/Python-1A0B2E?style=for-the-badge&logo=python&logoColor=3776AB)
 
-!Building Cool Projects
+![Building Cool Projects](https://img.shields.io/badge/Building%20Cool%20Projects-1A0B2E?style=for-the-badge&logo=rocket&logoColor=00F0FF)
 
 </div>
 
@@ -114,15 +114,15 @@ MATLAB &nbsp; • &nbsp; PSpice
 
 <div align="center">
 
-!Electrical Engineering
+![Electrical Engineering](https://img.shields.io/badge/Electrical%20Engineering-0D0D0D?style=for-the-badge&labelColor=1A0B2E&color=00F0FF)
 
-!Frontend Development
+![Frontend Development](https://img.shields.io/badge/Frontend%20Development-0D0D0D?style=for-the-badge&labelColor=1A0B2E&color=B026FF)
 
-!Programming
+![Programming](https://img.shields.io/badge/Programming-0D0D0D?style=for-the-badge&labelColor=1A0B2E&color=00F0FF)
 
 <br><br>
 
-🚀 Building my skills, one project at a time.*
+**🚀 Building my skills, one project at a time.**
 
 </div>
 
