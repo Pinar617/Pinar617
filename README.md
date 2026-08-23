@@ -17,7 +17,7 @@
 <a href="mailto:pinar2007khvnd@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-0A1128?style=for-the-badge&logo=gmail&logoColor=D4A55C"/>
 </a>
-<a href="https://instagram.com/pinar22khvnd">
+<a href="https://instagram.com/pinar_khvnd">
 <img src="https://img.shields.io/badge/Instagram-0A1128?style=for-the-badge&logo=instagram&logoColor=D4A55C"/>
 </a>
 
